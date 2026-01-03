@@ -2,11 +2,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-# Diary for 2026 in LaTeX
+# Diary for 2027 in LaTeX
 
 ## Purpose 
 
-Compile a 365-page diary for 2026, one page per day.
+Compile a 365-page diary for 2027, one page per day.
 Each month is a chapter, and each day is a section in a chapter.
 
 ## Compile locally with texlive
@@ -32,6 +32,7 @@ Comment out the corresponding make commands in 0AAAcontent.tex if you do not wan
 ## Related repos
 
 - [2024 Diary](https://github.com/MooersLab/diary2024inLaTeX)
+- [2026 Diary](https://github.com/MooersLab/diary2026inLaTeX)
 
 ## Directory Structure
 
